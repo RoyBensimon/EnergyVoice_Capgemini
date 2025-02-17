@@ -52,10 +52,10 @@ This project analyzes customer feedback for a **French energy supplier** facing 
 - Solal Zana
 - Maxim Leon Ochterbeck
 
-## 📄 References
+##  References
 - [Capgemini Data Camp 2024](https://www.capgemini.com/)
 - Scientific papers on NLP and sentiment analysis
 
-## 📬 Contact
+##  Contact
 For any questions or collaborations, feel free to reach out!
 roybensimonpro@gmail.com
